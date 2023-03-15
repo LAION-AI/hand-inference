@@ -5,3 +5,5 @@ backup
 images
 images_output
 images_output_old
+test.npy
+test.parquet
